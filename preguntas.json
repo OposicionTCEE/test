@@ -1517,7 +1517,7 @@
   {
    "id": "3A0706",
    "tema": "3.A.7",
-   "enunciado": "En relación a los efectos de la política monetaria, considere el modelo de 3 ecuaciones de Galí, compuesto de: La curva IS dinámica: \\(ỹ_{t}=E_{t}{ỹ_{t+1}}-\\frac{1}{σ}(i_{t}-E_{t}{π_{t+1}}-r^{N})\\). La curva de Phillips Neokeynesiana: \\(π_{t}=E_{t}{π_{t+1}}+κ\\cdot ỹ_{t}\\). Una regla de política monetaria. Donde \\(ỹ_{t}\\) es el output gap en el periodo \\(t\\), \\(E_{t}{ỹ_{t+1}}\\) es el output gap esperado en el periodo \\(t+1\\), \\(i_{t}\\) es el tipo de interés nominal fijado por el banco central, \\(π_{t}\\) es la inflación en el periodo \\(t\\), \\(E_{t}{π_{t+1}}\\) es la inflación esperada para el periodo \\(t+1\\) y \\(r^{N}\\) es el tipo de interés real natural en la economía analizada. En cuanto a los parámetros estructurales del modelo, asuma que \\(σ=0,25\\) y \\(κ=1\\). La economía se encuentra en una situación tal que \\(E_{t}{π_{t+1}}=5%\\), \\(E_{t}{ỹ_{t+1}}=2%\\), \\(r^{N}=2%\\) y el tipo de interés nominal fijado por el banco central es del 7%. Considere las siguientes afirmaciones: I. Se puede afirmar que el output gap es negativo. II. Se puede afirmar que \\(π_{t}=8%\\). III. En ausencia de shocks exógenos, si el gobierno quiere reducir el actual nivel de inflación, tendrá que generar un aumento en el output gap. IV. Un descenso en la inflación esperada para \\(t+1\\) genera, ceteris paribus, un descenso en la inflación actual. Señale la respuesta correcta:",
+   "enunciado": "En relación a los efectos de la política monetaria, considere el modelo de 3 ecuaciones de Galí, compuesto de: La curva IS dinámica: \\(ỹ_{t}=E_{t}{ỹ_{t+1}}-\\frac{1}{σ}(i_{t}-E_{t}{π_{t+1}}-r^{N})\\). La curva de Phillips Neokeynesiana: \\(π_{t}=E_{t}{π_{t+1}}+κ\\cdot ỹ_{t}\\). Una regla de política monetaria. Donde \\(ỹ_{t}\\) es el output gap en el periodo \\(t\\), \\(E_{t}{ỹ_{t+1}}\\) es el output gap esperado en el periodo \\(t+1\\), \\(i_{t}\\) es el tipo de interés nominal fijado por el banco central, \\(π_{t}\\) es la inflación en el periodo \\(t\\), \\(E_{t}{π_{t+1}}\\) es la inflación esperada para el periodo \\(t+1\\) y \\(r^{N}\\) es el tipo de interés real natural en la economía analizada. En cuanto a los parámetros estructurales del modelo, asuma que \\(σ=0,25\\) y \\(κ=1\\). La economía se encuentra en una situación tal que \\(E_{t}{π_{t+1}}=5\\%\\), \\(E_{t}{ỹ_{t+1}}=2\\%\\), \\(r^{N}=2\\%\\) y el tipo de interés nominal fijado por el banco central es del 7%. Considere las siguientes afirmaciones: I. Se puede afirmar que el output gap es negativo. II. Se puede afirmar que \\(π_{t}=8\\%\\). III. En ausencia de shocks exógenos, si el gobierno quiere reducir el actual nivel de inflación, tendrá que generar un aumento en el output gap. IV. Un descenso en la inflación esperada para \\(t+1\\) genera, ceteris paribus, un descenso en la inflación actual. Señale la respuesta correcta:",
    "opciones": [
     {
      "id": "A",
@@ -3322,7 +3322,7 @@
     },
     {
      "id": "C",
-     "text": "Se pueden obtener las funciones de demanda de la empresa de los \\(n\\) factores productivos que adquiere, como \\(x_{i}=\\text{\\pdv}Cw_{i}\\), \\(i=1,…n\\)"
+     "text": "Se pueden obtener las funciones de demanda de la empresa de los \\(n\\) factores productivos que adquiere, como \\(x_{i}=\\partial Cw_{i}\\), \\(i=1,…n\\)"
     },
     {
      "id": "D",
@@ -3773,7 +3773,7 @@
     },
     {
      "id": "C",
-     "text": "Solo a corto plazo si la empresa está en equilibrio demanda una combinación óptima de factores tal que \\(\\frac{PMg_{y}_{1}}{PMg_{y}_{2}}=\\frac{w_{1}}{w_{2}}\\)."
+     "text": "Solo a corto plazo si la empresa está en equilibrio demanda una combinación óptima de factores tal que \\(\\frac{PMg_{y1}}{PMg_{y2}}=\\frac{w_{1}}{w_{2}}\\)."
     },
     {
      "id": "D",
@@ -5042,7 +5042,7 @@
   {
    "id": "3A2102",
    "tema": "3.A.21",
-   "enunciado": "Considere el caso de una economía sin producción, en la que hay \\(n\\) individuos y \\(k\\) bienes, y cada individuo tiene un vector de dotaciones iniciales \\(ω_{i}=(ω_{i}_{1},ω_{i}_{2},…,ω_{i}_{k})\\). Si se abren mercados para todos los bienes, la Ley de Walras nos indica que \\(p\\cdot Z(p)=0\\), siendo \\(p\\) un vector cualquiera de precios \\(p=(p_{1},...,p_{k})\\) y \\(Z(p)\\) el vector de funciones de exceso de demanda, cuyos \\(k\\) componentes se definen a partir de las demandas \\((x_{i})\\) y las dotaciones de los individuos (\\(ω_{i}\\)) como: \\(Z_{j}(p)=Σx_{i}_{j}-Σ\\)\\(\\text{Extra close brace or missing open brace}\\), para \\(j=1,...,k\\). Si los mercados de todos los bienes salvo 1 y 2 se hallan en equilibrio, es decir, \\(Z_{j}(p)=0\\), \\(j=3,4,...,k\\), ¿cuál de las siguientes situaciones en los mercados de los bienes 1 y 2 no podría nunca observarse?",
+   "enunciado": "Considere el caso de una economía sin producción, en la que hay \\(n\\) individuos y \\(k\\) bienes, y cada individuo tiene un vector de dotaciones iniciales \\(ω_{i}=(ω_{i1},ω_{i2},…,ω_{ik})\\). Si se abren mercados para todos los bienes, la Ley de Walras nos indica que \\(p\\cdot Z(p)=0\\), siendo \\(p\\) un vector cualquiera de precios \\(p=(p_{1},...,p_{k})\\) y \\(Z(p)\\) el vector de funciones de exceso de demanda, cuyos \\(k\\) componentes se definen a partir de las demandas \\((x_{i})\\) y las dotaciones de los individuos (\\(ω_{i}\\)) como: \\(Z_{j}(p)=Σx_{ij}-Σ\\)\\(\\text{Extra close brace or missing open brace}\\), para \\(j=1,...,k\\). Si los mercados de todos los bienes salvo 1 y 2 se hallan en equilibrio, es decir, \\(Z_{j}(p)=0\\), \\(j=3,4,...,k\\), ¿cuál de las siguientes situaciones en los mercados de los bienes 1 y 2 no podría nunca observarse?",
    "opciones": [
     {
      "id": "A",
@@ -5461,7 +5461,7 @@
   {
    "id": "3A2303",
    "tema": "3.A.23",
-   "enunciado": "Suponga una economía donde las expectativas de productividad son correctas y la tasa de inflación esperada para el presente año es la tasa de inflación efectiva del año anterior (\\(π_{t}^{e}=π_{t-1}\\)). Si se estima econométricamente una curva de Phillips con datos anuales, obteniéndose la expresión \\(π_{t}-π_{t-1}=2%-0,25\\cdot u_{t}\\), (donde \\(π\\) hace referencia a la tasa de inflación y u a la tasa de paro) ello implica que:",
+   "enunciado": "Suponga una economía donde las expectativas de productividad son correctas y la tasa de inflación esperada para el presente año es la tasa de inflación efectiva del año anterior (\\(π_{t}^{e}=π_{t-1}\\)). Si se estima econométricamente una curva de Phillips con datos anuales, obteniéndose la expresión \\(π_{t}-π_{t-1}=2\\%-0,25\\cdot u_{t}\\), (donde \\(π\\) hace referencia a la tasa de inflación y u a la tasa de paro) ello implica que:",
    "opciones": [
     {
      "id": "A",
@@ -6486,7 +6486,7 @@
   {
    "id": "3A2804",
    "tema": "3.A.28",
-   "enunciado": "Si la ley de Okun para un país viene definida por la siguiente ecuación: \\(u_{t}-u_{t-1}=-0,4\\cdot (g_{Y}_{T}-3%)\\), en la que \\(U_{t}\\) es la tasa de paro en el momento \\(t\\); \\(g_{y}_{t}\\) es la tasa de crecimiento del PIB en esa economía,",
+   "enunciado": "Si la ley de Okun para un país viene definida por la siguiente ecuación: \\(u_{t}-u_{t-1}=-0,4\\cdot (g_{YT}-3\\%)\\), en la que \\(U_{t}\\) es la tasa de paro en el momento \\(t\\); \\(g_{yt}\\) es la tasa de crecimiento del PIB en esa economía,",
    "opciones": [
     {
      "id": "A",
@@ -7833,7 +7833,7 @@
   {
    "id": "3A3608",
    "tema": "3.A.36",
-   "enunciado": "En el contexto de la implementación de la política monetaria y el estudio de la inconsistencia dinámica de la política monetaria discrecional, considere la siguiente información sobre el gráfico expuesto a continuación, suponiendo que los agentes de la economía conocen las preferencias del banco central, estando éstas representadas por las curvas cóncavas respecto al origen, que reflejan las combinaciones de inflación y tasa de desempleo que generan un mismo nivel de pérdida para el banco central: \\(CPh_{C/P}_{1}\\) representa una curva de Phillips en el corto plazo para la economía, en la que los agentes tienen unas expectativas de inflación del 10%. \\(CPh_{C/P}_{2}\\) representa una curva de Phillips en el corto plazo para la economía, en la que los agentes tienen unas expectativas de inflación del 0%. La Curva de Phillips de largo plazo corta al eje de abscisas en la tasa natural de paro de la economía. Los puntos I, II y III representan distintas combinaciones de inflación y tasa de desempleo que está estudiando la autoridad monetaria de cara a implementar su política monetaria, considerando solo un período temporal. Señale la respuesta INCORRECTA:",
+   "enunciado": "En el contexto de la implementación de la política monetaria y el estudio de la inconsistencia dinámica de la política monetaria discrecional, considere la siguiente información sobre el gráfico expuesto a continuación, suponiendo que los agentes de la economía conocen las preferencias del banco central, estando éstas representadas por las curvas cóncavas respecto al origen, que reflejan las combinaciones de inflación y tasa de desempleo que generan un mismo nivel de pérdida para el banco central: \\(CPh_{C/P1}\\) representa una curva de Phillips en el corto plazo para la economía, en la que los agentes tienen unas expectativas de inflación del 10%. \\(CPh_{C/P2}\\) representa una curva de Phillips en el corto plazo para la economía, en la que los agentes tienen unas expectativas de inflación del 0%. La Curva de Phillips de largo plazo corta al eje de abscisas en la tasa natural de paro de la economía. Los puntos I, II y III representan distintas combinaciones de inflación y tasa de desempleo que está estudiando la autoridad monetaria de cara a implementar su política monetaria, considerando solo un período temporal. Señale la respuesta INCORRECTA:",
    "opciones": [
     {
      "id": "A",
@@ -8219,7 +8219,7 @@
   {
    "id": "3A3809",
    "tema": "3.A.38",
-   "enunciado": "Suponga que se cumplen todos los supuestos de la teoría de la equivalencia ricardiana, y que nos encontramos en un contexto intertemporal con solamente dos períodos. La función de utilidad intertemporal de un consumidor representativo es \\(U=ln(C_{1})+βln(C_{2})\\), donde \\(β\\) es el factor de descuento intertemporal. Este consumidor representativo recibe una renta \\(Y_{1}\\) en el primer período, y una renta \\(Y_{2}\\) en el segundo período. Además, hace frente a un tipo de interés real \\(r\\). Las restricciones presupuestarias del Gobierno son \\(G_{1}=T_{1}+B\\) en el primer período y \\(G_{2}+(1+r)\\cdot B=T_{2}\\) en el segundo, donde \\(B\\) es el nivel de deuda emitida en el período \\(1\\), \\(T_{i}\\) son impuestos de suma fija recaudados del consumidor representativo en cada período y \\(G_{i}\\) son los niveles de gasto en cada período. Si \\(β=50%\\), \\(r=10%\\) y el gobierno decide aumentar el gasto en 1 unidad en el período \\(1\\), ¿cuál será la variación del consumo en el período \\(1\\)?",
+   "enunciado": "Suponga que se cumplen todos los supuestos de la teoría de la equivalencia ricardiana, y que nos encontramos en un contexto intertemporal con solamente dos períodos. La función de utilidad intertemporal de un consumidor representativo es \\(U=ln(C_{1})+βln(C_{2})\\), donde \\(β\\) es el factor de descuento intertemporal. Este consumidor representativo recibe una renta \\(Y_{1}\\) en el primer período, y una renta \\(Y_{2}\\) en el segundo período. Además, hace frente a un tipo de interés real \\(r\\). Las restricciones presupuestarias del Gobierno son \\(G_{1}=T_{1}+B\\) en el primer período y \\(G_{2}+(1+r)\\cdot B=T_{2}\\) en el segundo, donde \\(B\\) es el nivel de deuda emitida en el período \\(1\\), \\(T_{i}\\) son impuestos de suma fija recaudados del consumidor representativo en cada período y \\(G_{i}\\) son los niveles de gasto en cada período. Si \\(β=50\\%\\), \\(r=10\\%\\) y el gobierno decide aumentar el gasto en 1 unidad en el período \\(1\\), ¿cuál será la variación del consumo en el período \\(1\\)?",
    "opciones": [
     {
      "id": "A",
@@ -9152,7 +9152,7 @@
    "opciones": [
     {
      "id": "A",
-     "text": "\\(log(y(t))=\\frac{α}{1-$α$-$β$}log(\\frac{s_{k}}{n+g+δ_{k}})+\\frac{β}{1-α-β}log(\\frac{s_{h}}{n+g+δ_{h}})+u\\)"
+     "text": "\\(log(y(t))=\\frac{α}{1-α-β}log(\\frac{s_{k}}{n+g+δ_{k}})+\\frac{β}{1-α-β}log(\\frac{s_{h}}{n+g+δ_{h}})+u\\)"
     },
     {
      "id": "B",
@@ -9596,7 +9596,7 @@
   {
    "id": "3A4407",
    "tema": "3.A.44",
-   "enunciado": "Considere un modelo de crecimiento endógeno de \"tipo AK\", donde \\(Y=AK\\), \\(g_{A}=4%\\) es la tasa de crecimiento de la productividad total de los factores, \\(g_{k}=3%\\) es la tasa de crecimiento del capital per cápita, \\(n=2%\\) es la tasa de crecimiento de la población, la cual está toda empleada, y \\(δ=3%\\) es la tasa de depreciación del capital. ¿cuál es la tasa de crecimiento del PIB per cápita \\(g_{y}\\) en el Estado Estacionario?",
+   "enunciado": "Considere un modelo de crecimiento endógeno de \"tipo AK\", donde \\(Y=AK\\), \\(g_{A}=4\\%\\) es la tasa de crecimiento de la productividad total de los factores, \\(g_{k}=3\\%\\) es la tasa de crecimiento del capital per cápita, \\(n=2\\%\\) es la tasa de crecimiento de la población, la cual está toda empleada, y \\(δ=3\\%\\) es la tasa de depreciación del capital. ¿cuál es la tasa de crecimiento del PIB per cápita \\(g_{y}\\) en el Estado Estacionario?",
    "opciones": [
     {
      "id": "A",
@@ -11294,7 +11294,7 @@
   {
    "id": "3B0707",
    "tema": "3.B.7",
-   "enunciado": "Suponga que un país desarrollado (\\(A\\)) y un país en desarrollo (\\(B\\)) están negociando una reducción de los aranceles comerciales aplicados a las importaciones de dos productos (\\(x_{1}\\) y \\(x_{2}\\)). Sean los aranceles de partida aplicados por \\(A\\) y \\(B\\) \\(t_{1}^{A}=5%\\), \\(t_{2}^{A}=10%\\) y \\(t_{1}^{B}=15%\\) y \\(t_{2}^{B}=20%\\), respectivamente:",
+   "enunciado": "Suponga que un país desarrollado (\\(A\\)) y un país en desarrollo (\\(B\\)) están negociando una reducción de los aranceles comerciales aplicados a las importaciones de dos productos (\\(x_{1}\\) y \\(x_{2}\\)). Sean los aranceles de partida aplicados por \\(A\\) y \\(B\\) \\(t_{1}^{A}=5\\%\\), \\(t_{2}^{A}=10\\%\\) y \\(t_{1}^{B}=15\\%\\) y \\(t_{2}^{B}=20\\%\\), respectivamente:",
    "opciones": [
     {
      "id": "A",
