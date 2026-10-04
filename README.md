@@ -40,10 +40,9 @@ Las respuestas que das en el panel **no se guardan aquí**, sino en el repositor
 
 ## Estado (4 de octubre de 2026)
 
-- 583 preguntas de 86 temas, procedentes de 13 exámenes oficiales (2011–2025).
+- 595 preguntas de 88 temas, procedentes de 13 exámenes oficiales (2011–2025).
   En cada examen solo están las preguntas clasificadas en un tema del tercer ejercicio: no son exámenes completos.
 - Sin preguntas: 3.A.1 y 3.A.15.
-- Pendiente de incorporar: 3.A.33 y 3.B.40. Sus ficheros estaban en iCloud sin descargar.
 - Faltan 14 de las 16 imágenes, las que eran `.webp`.
 
 ## Añadir o corregir preguntas

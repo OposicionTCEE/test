@@ -10,7 +10,7 @@
   {
    "nombre": "Examen oficial de octubre de 2011 - OEP 2011",
    "fecha": "2011-10",
-   "preguntas": 39
+   "preguntas": 43
   },
   {
    "nombre": "Examen oficial de noviembre de 2013 - OEP 2013",
@@ -30,7 +30,7 @@
   {
    "nombre": "Examen oficial de noviembre de 2016 - OEP 2016",
    "fecha": "2016-11",
-   "preguntas": 45
+   "preguntas": 46
   },
   {
    "nombre": "Examen oficial de enero de 2018 - OEP 2017",
@@ -40,27 +40,27 @@
   {
    "nombre": "Examen oficial de febrero de 2019 - OEP 2018",
    "fecha": "2019-02",
-   "preguntas": 42
+   "preguntas": 43
   },
   {
    "nombre": "Examen oficial de enero de 2020 - OEP 2019",
    "fecha": "2020-01",
-   "preguntas": 45
+   "preguntas": 47
   },
   {
    "nombre": "Examen oficial de julio de 2021 - OEP 2020",
    "fecha": "2021-07",
-   "preguntas": 48
+   "preguntas": 49
   },
   {
    "nombre": "Examen oficial de julio de 2022",
    "fecha": "2022-07",
-   "preguntas": 48
+   "preguntas": 49
   },
   {
    "nombre": "Examen oficial de junio de 2023 - OEP 2022 - Modelo A",
    "fecha": "2023-06",
-   "preguntas": 45
+   "preguntas": 47
   },
   {
    "nombre": "Examen oficial de junio de 2024 - OEP 2023 - Modelo A",
@@ -7253,6 +7253,230 @@
    "imagen": null,
    "justificacion": "",
    "fecha": "2019-02"
+  },
+  {
+   "id": "3A3301",
+   "tema": "3.A.33",
+   "enunciado": "En relación con la teoría del paseo aleatorio de Hall (1978):",
+   "opciones": [
+    {
+     "id": "A",
+     "text": "La única variable adecuada para estimar el consumo futuro es el consumo presente. Por lo tanto, una política económica cuyo objetivo sea alterar los patrones de consumo de los agentes sólo va a ser efectiva a través del término de error del proceso autorregresivo ante cambios no esperados."
+    },
+    {
+     "id": "B",
+     "text": "Esta parte de la teoría de la Renta Permanente de Milton Friedman, introduce una función de utilidad lineal y los consumidores se comportan de acuerdo con la hipótesis de las expectativas racionales."
+    },
+    {
+     "id": "C",
+     "text": "El coeficiente de Arrow-Pratt absoluto es positivo mientras que el relativo no lo es."
+    },
+    {
+     "id": "D",
+     "text": "Esta predice poca sensibilidad ante cambios esperados de la renta y mucha sensibilidad ante cambios inesperados de la renta."
+    }
+   ],
+   "correctas": [
+    "A"
+   ],
+   "tipo": "single",
+   "examen": "Examen oficial de junio de 2023 - OEP 2022 - Modelo A",
+   "numero": 19,
+   "fecha": "2023-06",
+   "imagen": null,
+   "justificacion": ""
+  },
+  {
+   "id": "3A3302",
+   "tema": "3.A.33",
+   "enunciado": "Según la teoría de la renta permanente (Friedman, 1957):",
+   "opciones": [
+    {
+     "id": "A",
+     "text": "El consumidor suaviza su senda de consumo siguiendo un enfoque de elección intertemporal, de tipo \"backward looking\", y estima su renta permanente bajo la hipótesis de las expectativas adaptativas, de tipo \"forward looking\"."
+    },
+    {
+     "id": "B",
+     "text": "El consumidor suaviza su senda de consumo siguiendo un enfoque de elección intertemporal, de tipo \"forward looking\", y estima su renta permanente bajo la hipótesis de las expectativas adaptativas, de tipo \"backward looking\"."
+    },
+    {
+     "id": "C",
+     "text": "El consumidor suaviza su senda de consumo siguiendo un enfoque de elección intertemporal, de tipo \"forward looking\", y estima su renta permanente bajo la hipótesis de las expectativas racionales, de tipo \"backward looking\"."
+    },
+    {
+     "id": "D",
+     "text": "El consumidor suaviza su senda de consumo siguiendo un enfoque de elección intertemporal, de tipo \"backward looking\", y estima su renta permanente bajo la hipótesis de las expectativas racionales, de tipo \"forward looking\"."
+    }
+   ],
+   "correctas": [
+    "B"
+   ],
+   "tipo": "single",
+   "examen": "Examen oficial de junio de 2023 - OEP 2022 - Modelo A",
+   "numero": 18,
+   "fecha": "2023-06",
+   "imagen": null,
+   "justificacion": ""
+  },
+  {
+   "id": "3A3303",
+   "tema": "3.A.33",
+   "enunciado": "Considere la teoría del paseo aleatorio en el consumo de Hall y sus tradicionales supuestos. El consumidor representativo maximiza su utilidad intertemporal sujeto a una restricción presupuestaria, siendo su función de utilidad \\(U_{t}=c_{t}-(α/2)c_{t}^{2}\\). Señale la respuesta correcta:",
+   "opciones": [
+    {
+     "id": "A",
+     "text": "Los cambios en la política económica no tienen efectos sobre la senda de consumo."
+    },
+    {
+     "id": "B",
+     "text": "La tasa de variación del consumo entre periodos sigue un paseo aleatorio."
+    },
+    {
+     "id": "C",
+     "text": "Implica un exceso de suavidad ante cambios esperados de la renta actual."
+    },
+    {
+     "id": "D",
+     "text": "Si el consumidor representativo se enfrentara a restricciones a la liquidez, no se alterarían de forma sustancial los resultados del modelo."
+    }
+   ],
+   "correctas": [
+    "C"
+   ],
+   "tipo": "single",
+   "examen": "Examen oficial de julio de 2022",
+   "numero": 18,
+   "fecha": "2022-07",
+   "imagen": null,
+   "justificacion": ""
+  },
+  {
+   "id": "3A3304",
+   "tema": "3.A.33",
+   "enunciado": "En un marco intertemporal de horizonte finito, tiempo discreto y perfecta certidumbre, las preferencias de un consumidor vienen representadas por medio de una función de utilidad intertemporal à la Samuelson \\(U=Σ(1/(1+ρ))^{t}U(Ct)\\), donde \\(ρ\\) es la tasa de descuento intertemporal, que es constante en todos los períodos, al igual que el tipo de interés \\(r\\). Si este consumidor tiene libre acceso a un mercado de capitales perfecto que le permite mover renta entre períodos, mostrará una tendencia por alisar su consumo (mantener una tasa de crecimiento constante de su senda de consumo) si:",
+   "opciones": [
+    {
+     "id": "A",
+     "text": "El alisamiento del consumo no depende de los valores que tomen \\(ρ\\) y \\(r\\)"
+    },
+    {
+     "id": "B",
+     "text": "Solo si \\(ρ=r\\)"
+    },
+    {
+     "id": "C",
+     "text": "Solo si \\(ρ<r\\)"
+    },
+    {
+     "id": "D",
+     "text": "Solo si \\(ρ>r\\)"
+    }
+   ],
+   "correctas": [
+    "A"
+   ],
+   "tipo": "single",
+   "examen": "Examen oficial de julio de 2021 - OEP 2020",
+   "numero": 7,
+   "fecha": "2021-07",
+   "imagen": null,
+   "justificacion": ""
+  },
+  {
+   "id": "3A3305",
+   "tema": "3.A.33",
+   "enunciado": "Considere un individuo que vive dos periodos y cuya función de utilidad es la siguiente: \\(U(C_{1},C_{2})=ln(C_{1})+βln(C_{2})\\), siendo \\(β=0,6\\), tipo de interés real nulo y una renta de 10.000 euros en cada periodo.",
+   "opciones": [
+    {
+     "id": "A",
+     "text": "Dado que el tipo de interés real es nulo, el consumo óptimo en ambos periodos será el mismo e igual a 10.000 euros en cada uno."
+    },
+    {
+     "id": "B",
+     "text": "El consumo en el primer periodo será superior a 10.000 euros, mientras que el consumo en el segundo periodo será inferior a 10.000 euros."
+    },
+    {
+     "id": "C",
+     "text": "El consumo en el primer periodo será inferior a 10.000 euros, mientras que su consumo en el segundo periodo será superior a 10.000 euros."
+    },
+    {
+     "id": "D",
+     "text": "El consumo total del individuo en ambos periodos será superior a 20.000 euros."
+    }
+   ],
+   "correctas": [
+    "B"
+   ],
+   "tipo": "single",
+   "examen": "Examen oficial de octubre de 2011 - OEP 2011",
+   "numero": 12,
+   "fecha": "2011-10",
+   "imagen": null,
+   "justificacion": ""
+  },
+  {
+   "id": "3A3306",
+   "tema": "3.A.33",
+   "enunciado": "En un contexto de un individuo que vive dos periodos, la existencia de restricciones a la liquidez que no le permiten pedir prestado implica que:",
+   "opciones": [
+    {
+     "id": "A",
+     "text": "El individuo no puede ahorrar una cantidad positiva en el primer periodo."
+    },
+    {
+     "id": "B",
+     "text": "El consumo en cada periodo tiene que ser siempre igual a la renta que gana el individuo en cada uno de dichos periodos."
+    },
+    {
+     "id": "C",
+     "text": "La restricción a la liquidez no tiene ningún efecto si el consumo óptimo del individuo en el primer periodo es igual o inferior a la renta que gana en dicho periodo."
+    },
+    {
+     "id": "D",
+     "text": "El consumo del individuo en el segundo periodo será inferior a la renta que gana en dicho periodo."
+    }
+   ],
+   "correctas": [
+    "C"
+   ],
+   "tipo": "single",
+   "examen": "Examen oficial de octubre de 2011 - OEP 2011",
+   "numero": 18,
+   "fecha": "2011-10",
+   "imagen": null,
+   "justificacion": ""
+  },
+  {
+   "id": "3A3307",
+   "tema": "3.A.33",
+   "enunciado": "La existencia de restricciones a la liquidez provoca:",
+   "opciones": [
+    {
+     "id": "A",
+     "text": "Que no se cumpla la equivalencia ricardiana."
+    },
+    {
+     "id": "B",
+     "text": "Que el consumo del período sea poco sensible a las rentas del período."
+    },
+    {
+     "id": "C",
+     "text": "Que el consumo del período no se vea afectado por las disminuciones de impuestos aunque éstas sean transitorias."
+    },
+    {
+     "id": "D",
+     "text": "El traspaso de rentas futuras hacia el presente."
+    }
+   ],
+   "correctas": [
+    "A"
+   ],
+   "tipo": "single",
+   "examen": "Examen oficial de noviembre de 2016 - OEP 2016",
+   "numero": 19,
+   "fecha": "2016-11",
+   "imagen": null,
+   "justificacion": ""
   },
   {
    "id": "3A3401",
@@ -17602,6 +17826,166 @@
    "imagen": null,
    "justificacion": "",
    "fecha": "2024-06"
+  },
+  {
+   "id": "3B4001",
+   "tema": "3.B.40",
+   "enunciado": "Señale la respuesta CORRECTA en relación a las normas de funcionamiento de la Organización Mundial del Comercio:",
+   "opciones": [
+    {
+     "id": "A",
+     "text": "Por el principio de Trato de la Nación Más Favorecida, un país miembro de la OMC debe otorgar a los demás miembros de la OMC el mejor trato que otorgara a otro socio de la OMC."
+    },
+    {
+     "id": "B",
+     "text": "Por el principio de Trato de la Nación Más Favorecida, un país socio de la OMC debe otorgar a los demás miembros de la OMC el mejor trato que otorgara a uno de sus socios de Unión Aduanera o Zona de Libre Comercio, aunque no sea miembro de la OMC."
+    },
+    {
+     "id": "C",
+     "text": "Por el principio de Trato de la Nación Más Favorecida, un país miembro de la OMC debe otorgar a los demás miembros de la OMC el mejor trato que otorgara a uno de sus socios de Unión Aduanera o Zona de Libre Comercio, pero sólo si dicho socio es también miembro de la OMC."
+    },
+    {
+     "id": "D",
+     "text": "Las respuestas a) y c) son correctas."
+    }
+   ],
+   "correctas": [
+    "A"
+   ],
+   "tipo": "single",
+   "examen": "Examen oficial de febrero de 2019 - OEP 2018",
+   "numero": 39,
+   "fecha": "2019-02",
+   "imagen": null,
+   "justificacion": ""
+  },
+  {
+   "id": "3B4002",
+   "tema": "3.B.40",
+   "enunciado": "En relación al comercio de Propiedad Intelectual (PI), señale la afirmación falsa:",
+   "opciones": [
+    {
+     "id": "A",
+     "text": "En el transcurso de las negociaciones durante la Ronda de Uruguay (1986-1994) de la Organización Mundial de Comercio (OMC), se firmó el acuerdo sobre los Aspectos de los Derechos de Propiedad Intelectual relacionados con el Comercio (ADPIC)."
+    },
+    {
+     "id": "B",
+     "text": "En el acuerdo ADPIC no se contempla el principio de trato de nación más favorecida (NMF)."
+    },
+    {
+     "id": "C",
+     "text": "Para las consultas y la solución de diferencias en el marco del acuerdo ADPIC se aplican las disposiciones previstas en el sistema de solución de diferencias de la OMC."
+    },
+    {
+     "id": "D",
+     "text": "El acuerdo ADPIC es parte integrante de la OMC."
+    }
+   ],
+   "correctas": [
+    "B"
+   ],
+   "tipo": "single",
+   "examen": "Examen oficial de enero de 2020 - OEP 2019",
+   "numero": 41,
+   "fecha": "2020-01",
+   "imagen": null,
+   "justificacion": ""
+  },
+  {
+   "id": "3B4003",
+   "tema": "3.B.40",
+   "enunciado": "El Fondo de Cohesión en la Unión Europea:",
+   "opciones": [
+    {
+     "id": "A",
+     "text": "Fue creado con el objetivo de facilitar la cohesión económica y social entre las regiones de la UE."
+    },
+    {
+     "id": "B",
+     "text": "Ha contribuido de forma decidida a la cohesión económica y social a partir de su creación en 1970."
+    },
+    {
+     "id": "C",
+     "text": "Fue creado para ayudar a determinados países a cumplir los criterios de convergencia nominal del proceso de integración monetaria."
+    },
+    {
+     "id": "D",
+     "text": "Nunca financia proyectos relacionados con infraestructuras."
+    }
+   ],
+   "correctas": [
+    "C"
+   ],
+   "tipo": "single",
+   "examen": "Examen oficial de octubre de 2011 - OEP 2011",
+   "numero": 44,
+   "fecha": "2011-10",
+   "imagen": null,
+   "justificacion": ""
+  },
+  {
+   "id": "3B4004",
+   "tema": "3.B.40",
+   "enunciado": "Las llamadas regiones de competitividad y empleo en la Unión Europea tienen:",
+   "opciones": [
+    {
+     "id": "A",
+     "text": "Unos niveles de competitividad un 50% más bajos que la media de la UE."
+    },
+    {
+     "id": "B",
+     "text": "Una renta per cápita inferior al 75% de la media de la Unión Europea."
+    },
+    {
+     "id": "C",
+     "text": "Menos recursos asignados que las regiones llamadas de convergencia."
+    },
+    {
+     "id": "D",
+     "text": "Una competitividad agraria muy baja."
+    }
+   ],
+   "correctas": [
+    "C"
+   ],
+   "tipo": "single",
+   "examen": "Examen oficial de octubre de 2011 - OEP 2011",
+   "numero": 40,
+   "fecha": "2011-10",
+   "imagen": null,
+   "justificacion": ""
+  },
+  {
+   "id": "3B4005",
+   "tema": "3.B.40",
+   "enunciado": "Señale la afirmación correcta respecto de la Política Comercial Común de la Unión Europea (UE):",
+   "opciones": [
+    {
+     "id": "A",
+     "text": "El Parlamento Europeo tiene la potestad para introducir modificaciones en los procesos de negociación y celebración de acuerdos de libre comercio entre la UE y países terceros."
+    },
+    {
+     "id": "B",
+     "text": "En la OMC son miembros todos los países de la UE, pero no la UE en su conjunto."
+    },
+    {
+     "id": "C",
+     "text": "La Comisión Europea habrá de ser autorizada por el Consejo de la UE y por el Parlamento Europeo para poder iniciar las negociaciones tendentes a la celebración de acuerdos de libre comercio entre la UE y países terceros."
+    },
+    {
+     "id": "D",
+     "text": "La UE goza de competencia exclusiva en el ámbito de la Política Comercial Común, pero los acuerdos alcanzados pueden precisar la ratificación de los Estados miembros."
+    }
+   ],
+   "correctas": [
+    "D"
+   ],
+   "tipo": "single",
+   "examen": "Examen oficial de enero de 2020 - OEP 2019",
+   "numero": 44,
+   "fecha": "2020-01",
+   "imagen": null,
+   "justificacion": ""
   },
   {
    "id": "3B4101",
