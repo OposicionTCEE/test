@@ -179,7 +179,7 @@
   },
   {
    "id": "JC0106",
-   "tema": "3.A.8",
+   "tema": "3.A.9",
    "enunciado": "Al subir el precio del bien \\(x\\) (\\(p_x\\)) de un consumidor con preferencias regulares entre los bienes \\(x\\) e \\(y\\), se observa que disminuye la cantidad de consumo del propio bien \\(x\\). Entonces, señale la respuesta FALSA:",
    "opciones": [
     {
@@ -214,7 +214,7 @@
   },
   {
    "id": "JC0107",
-   "tema": "3.A.8",
+   "tema": "3.A.9",
    "enunciado": "Si \\(x\\) e \\(y\\) son bienes sustitutivos, la cantidad de consumo del bien X es positiva y se produce un aumento de su precio, entonces, señale la respuesta FALSA:",
    "opciones": [
     {
@@ -235,14 +235,15 @@
     }
    ],
    "correctas": [
+    "A",
     "B"
    ],
-   "tipo": "single",
+   "tipo": "multi",
    "examen": "Cuestionario 1 - Repaso de teoría del consumidor (academia)",
    "numero": 7,
    "fecha": null,
    "imagen": null,
-   "justificacion": "DUDOSA. B es falsa: el gasto en \\(x\\) cae o sube según la elasticidad precio sea mayor o menor que 1. Pero A también puede ser falsa: con sustitutivos perfectos y solo \\(x\\) en la cesta, una subida pequeña de \\(p_x\\) no cambia la demanda compensada (efecto sustitución nulo). Se marca B como la respuesta más probable de la clave.",
+   "justificacion": "Hay dos afirmaciones falsas. B: el gasto \\(p_x x\\) cae solo si la demanda es elástica (\\(|\\varepsilon| > 1\\)); si es inelástica, el gasto sube. A: con sustitutivos perfectos y solo \\(x\\) en la cesta, una subida pequeña de \\(p_x\\) que no cambia la esquina deja igual la demanda compensada, así que el efecto sustitución es nulo. C se da por cierta suponiendo que X no es un bien Giffen. D es cierta: los efectos sustitución de Slutsky y Hicks coinciden solo en casos particulares.",
    "origen": "academia",
    "solucion": "claude",
    "revisar": true
@@ -599,7 +600,7 @@
   },
   {
    "id": "JC0118",
-   "tema": "3.A.8",
+   "tema": "3.A.9",
    "enunciado": "Considere un consumidor que tiene preferencias regulares sobre los bienes X e Y. Si el bien X no es ordinario, señale la respuesta verdadera:",
    "opciones": [
     {

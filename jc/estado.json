@@ -19,8 +19,8 @@
    "fecha": "2026-10-05",
    "resueltas_por_claude": 20,
    "temas": {
-    "3.A.8": 19,
-    "3.A.9": 1
+    "3.A.8": 16,
+    "3.A.9": 4
    },
    "dudosas": [
     "JC0107"
@@ -69,6 +69,8 @@
   "Tema: consumo-ocio → 3.A.25; consumo intertemporal → 3.A.33 (5/10/2026).",
   "Erratas evidentes (ortografía, símbolos, decimales con coma) se corrigen; nunca datos ni sentido (5/10/2026).",
   "Cada cuestionario se añade a 'examenes' del banco para poder hacerlo como simulacro (5/10/2026).",
-  "Preguntas resueltas por Claude: 'solucion': 'claude' y 'revisar': true."
+  "Preguntas resueltas por Claude: 'solucion': 'claude' y 'revisar': true.",
+  "Efecto renta/sustitución, Slutsky, Hicks, Giffen y medidas de bienestar → 3.A.9 (5/10/2026).",
+  "Si hay más de una opción que cumple el enunciado, la pregunta pasa a 'multi' con todas ellas y la justificación explica cada una (JC0107, 5/10/2026)."
  ]
 }
