@@ -6,18 +6,69 @@
  "coste_por_pagina_imagen": null,
  "via_entrada": "El usuario adjunta los PDF en el chat de la sesión en la nube (no hay acceso al Mac).",
  "documentos": [
-  {"n": 1, "fichero": "CUESTIONARIO 1-REPASO T. DEL CONSUMIDOR.pdf", "paginas": 9, "tipo": "texto", "soluciones": "no (la tabla azul son respuestas del usuario)", "estado": "pendiente", "preguntas": 20, "sin_solucion": 20, "coste_estimado_usd": null, "fecha": null},
-  {"n": 2, "fichero": "CUESTIONARIO 2-CONSUMO OCIO-CON SOLUCIONES.pdf", "paginas": 11, "tipo": "mixto", "soluciones": "círculo rojo en la letra (págs. 7-11)", "estado": "hecho", "preguntas": 8, "sin_solucion": 0, "coste_estimado_usd": 2.0, "fecha": "2026-10-05",
-   "descartados": ["CUESTIONARIO 2-CONSUMO OCIO.pdf", "CUESTIONARIO 2-CONSUMO OCIO 1.pdf"]},
-  {"n": 3, "fichero": "CUESTIONARIO 3- CONSUMO INTERTEMPORAL 1.pdf", "paginas": 4, "tipo": "texto (fórmulas mal extraídas: hay que verlas como imagen)", "soluciones": "no (la tabla azul son respuestas del usuario)", "estado": "pendiente", "preguntas": 8, "sin_solucion": 8, "coste_estimado_usd": null, "fecha": null}
+  {
+   "n": 1,
+   "fichero": "CUESTIONARIO 1-REPASO T. DEL CONSUMIDOR.pdf",
+   "paginas": 9,
+   "tipo": "texto",
+   "soluciones": "no (la tabla azul son respuestas del usuario)",
+   "estado": "hecho",
+   "preguntas": 20,
+   "sin_solucion": 0,
+   "coste_estimado_usd": 2.5,
+   "fecha": "2026-10-05",
+   "resueltas_por_claude": 20,
+   "temas": {
+    "3.A.8": 19,
+    "3.A.9": 1
+   },
+   "dudosas": [
+    "JC0107"
+   ]
+  },
+  {
+   "n": 2,
+   "fichero": "CUESTIONARIO 2-CONSUMO OCIO-CON SOLUCIONES.pdf",
+   "paginas": 11,
+   "tipo": "mixto",
+   "soluciones": "círculo rojo en la letra (págs. 7-11)",
+   "estado": "hecho",
+   "preguntas": 8,
+   "sin_solucion": 0,
+   "coste_estimado_usd": 2.0,
+   "fecha": "2026-10-05",
+   "descartados": [
+    "CUESTIONARIO 2-CONSUMO OCIO.pdf",
+    "CUESTIONARIO 2-CONSUMO OCIO 1.pdf"
+   ],
+   "temas": {
+    "3.A.25": 8
+   }
+  },
+  {
+   "n": 3,
+   "fichero": "CUESTIONARIO 3- CONSUMO INTERTEMPORAL 1.pdf",
+   "paginas": 4,
+   "tipo": "texto (fórmulas mal extraídas: hay que verlas como imagen)",
+   "soluciones": "no (la tabla azul son respuestas del usuario)",
+   "estado": "pendiente",
+   "preguntas": 8,
+   "sin_solucion": 8,
+   "coste_estimado_usd": null,
+   "fecha": null
+  }
  ],
- "gastado_estimado_usd": 3.3,
+ "gastado_estimado_usd": 6.0,
  "criterios_acordados": [
   "Las letras escritas a mano en azul en la tabla final son respuestas del usuario, NO soluciones (5/10/2026).",
   "Sin solución fiable: Claude la resuelve, la pone en correctas con revisar: true y una justificación breve (5/10/2026).",
   "Desarrollos manuscritos de las versiones con soluciones: se resumen en 1-3 líneas en justificacion, comprobando el cálculo (5/10/2026).",
   "De cada documento se usa solo la versión con soluciones; las copias se descartan (5/10/2026).",
   "id: JC + número de documento (2 cifras) + número de pregunta (2 cifras), p. ej. JC0203.",
-  "examen: '<nombre del cuestionario> (academia)'; fecha: null; origen: 'academia'."
+  "examen: '<nombre del cuestionario> (academia)'; fecha: null; origen: 'academia'.",
+  "Tema: consumo-ocio → 3.A.25; consumo intertemporal → 3.A.33 (5/10/2026).",
+  "Erratas evidentes (ortografía, símbolos, decimales con coma) se corrigen; nunca datos ni sentido (5/10/2026).",
+  "Cada cuestionario se añade a 'examenes' del banco para poder hacerlo como simulacro (5/10/2026).",
+  "Preguntas resueltas por Claude: 'solucion': 'claude' y 'revisar': true."
  ]
 }

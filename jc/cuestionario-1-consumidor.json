@@ -1,0 +1,706 @@
+{
+ "documento": "CUESTIONARIO 1-REPASO T. DEL CONSUMIDOR.pdf",
+ "examen": "Cuestionario 1 - Repaso de teoría del consumidor (academia)",
+ "preguntas": [
+  {
+   "id": "JC0101",
+   "tema": "3.A.8",
+   "enunciado": "Con independencia de su nivel de renta y de los precios de los bienes \\(x\\) e \\(y\\), Pepe gasta siempre un 20% de su renta total en el consumo del bien \\(x\\) y el resto en el consumo del bien \\(y\\). Entonces, la función de utilidad que mejor representa las preferencias de Pepe es:",
+   "opciones": [
+    {
+     "id": "A",
+     "text": "\\(u(x,y) = 2x + 8y\\)"
+    },
+    {
+     "id": "B",
+     "text": "\\(u(x,y) = x^2 y^8\\)"
+    },
+    {
+     "id": "C",
+     "text": "\\(u(x,y) = \\min\\left\\{\\frac{x}{2}, \\frac{y}{8}\\right\\}\\)"
+    },
+    {
+     "id": "D",
+     "text": "Ninguna de las demás respuestas es correcta."
+    }
+   ],
+   "correctas": [
+    "B"
+   ],
+   "tipo": "single",
+   "examen": "Cuestionario 1 - Repaso de teoría del consumidor (academia)",
+   "numero": 1,
+   "fecha": null,
+   "imagen": null,
+   "justificacion": "Proporción de gasto constante: Cobb-Douglas \\(x^{\\alpha}y^{\\beta}\\), con \\(\\frac{\\alpha}{\\alpha+\\beta} = \\frac{2}{10} = 0{,}2\\).",
+   "origen": "academia",
+   "solucion": "claude",
+   "revisar": true
+  },
+  {
+   "id": "JC0102",
+   "tema": "3.A.8",
+   "enunciado": "La función de utilidad de Mariano se especifica como \\(u(x,y) = 4x^2 + y^2\\). Entonces, si los precios son \\(p_x = 2\\) y \\(p_y = 1\\) puede afirmarse que:",
+   "opciones": [
+    {
+     "id": "A",
+     "text": "Mariano gastará seguro toda su renta en el bien \\(x\\)."
+    },
+    {
+     "id": "B",
+     "text": "Mariano gastará seguro toda su renta en el bien \\(y\\)."
+    },
+    {
+     "id": "C",
+     "text": "Mariano podría gastar una parte de su renta en el bien \\(x\\) y otra parte en el bien \\(y\\)."
+    },
+    {
+     "id": "D",
+     "text": "Ninguna de las demás respuestas es válida."
+    }
+   ],
+   "correctas": [
+    "D"
+   ],
+   "tipo": "single",
+   "examen": "Cuestionario 1 - Repaso de teoría del consumidor (academia)",
+   "numero": 2,
+   "fecha": null,
+   "imagen": null,
+   "justificacion": "Preferencias no convexas: solución de esquina. Todo en \\(x\\): \\(u = 4(M/2)^2 = M^2\\); todo en \\(y\\): \\(u = M^2\\). Es indiferente entre las dos esquinas (ninguna es segura) y nunca elige una cesta interior.",
+   "origen": "academia",
+   "solucion": "claude",
+   "revisar": true
+  },
+  {
+   "id": "JC0103",
+   "tema": "3.A.8",
+   "enunciado": "Un consumidor con la función de utilidad \\(u(x,y) = \\ln(x) + y\\) y con una renta de 5 se encuentra en su cesta óptima para \\(p_y = 10\\) y \\(p_x = 1\\). Entonces, en ese punto de equilibrio puede afirmarse que:",
+   "opciones": [
+    {
+     "id": "A",
+     "text": "La elasticidad renta de la demanda del bien \\(y\\) es igual a 1."
+    },
+    {
+     "id": "B",
+     "text": "La curva de Engel del bien \\(x\\) se encuentra en un tramo de pendiente positiva."
+    },
+    {
+     "id": "C",
+     "text": "La elasticidad cruzada de la demanda del bien \\(x\\) es igual a -1."
+    },
+    {
+     "id": "D",
+     "text": "La curva de Engel del bien \\(y\\) se encuentra en un tramo de pendiente positiva."
+    }
+   ],
+   "correctas": [
+    "B"
+   ],
+   "tipo": "single",
+   "examen": "Cuestionario 1 - Repaso de teoría del consumidor (academia)",
+   "numero": 3,
+   "fecha": null,
+   "imagen": null,
+   "justificacion": "Cuasilineal: el interior exigiría \\(x = p_y/p_x = 10\\), que cuesta más que \\(M = 5\\). Esquina: \\(x = M/p_x = 5\\), \\(y = 0\\). En ese tramo (\\(M < 10\\)) la curva de Engel de \\(x\\) es creciente, la de \\(y\\) es plana y \\(x\\) no depende de \\(p_y\\).",
+   "origen": "academia",
+   "solucion": "claude",
+   "revisar": true
+  },
+  {
+   "id": "JC0104",
+   "tema": "3.A.8",
+   "enunciado": "Un consumidor debe consumir siempre conjuntamente los bienes X e Y en una proporción de 2 unidades de \\(x\\) por cada unidad de \\(y\\). Entonces, identifique la respuesta falsa:",
+   "opciones": [
+    {
+     "id": "A",
+     "text": "\\(x = \\frac{2M}{2p_x + p_y}\\)"
+    },
+    {
+     "id": "B",
+     "text": "X e Y son complementarios perfectos."
+    },
+    {
+     "id": "C",
+     "text": "Puede asegurarse que el efecto sustitución entre los dos bienes será siempre nulo."
+    },
+    {
+     "id": "D",
+     "text": "Puede asegurarse que la elasticidad cruzada de cualquiera de los dos bienes será siempre cero."
+    }
+   ],
+   "correctas": [
+    "D"
+   ],
+   "tipo": "single",
+   "examen": "Cuestionario 1 - Repaso de teoría del consumidor (academia)",
+   "numero": 4,
+   "fecha": null,
+   "imagen": null,
+   "justificacion": "Con \\(x = 2y\\): \\(y = \\frac{M}{2p_x + p_y}\\), \\(x = \\frac{2M}{2p_x + p_y}\\). Cada demanda depende del precio del otro bien (complementarios brutos), así que la elasticidad cruzada no es cero.",
+   "origen": "academia",
+   "solucion": "claude",
+   "revisar": true
+  },
+  {
+   "id": "JC0105",
+   "tema": "3.A.9",
+   "enunciado": "Para unos precios \\(p_x = p_y = 1\\) la cesta de consumo de un consumidor con preferencias Cobb-Douglas es \\((x,y) = (20,80)\\). Entonces, si el precio del bien X aumenta al doble (\\(p_x = 2\\)), manteniéndose todo lo demás constante, la renta mínima adicional con la que habría que compensarle por el aumento de precios para mantener la utilidad que tenía el consumidor antes del cambio en \\(p_x\\) es:",
+   "opciones": [
+    {
+     "id": "A",
+     "text": "Superior a 20 unidades monetarias en cualquier caso."
+    },
+    {
+     "id": "B",
+     "text": "Inferior a 20 unidades monetarias en cualquier caso."
+    },
+    {
+     "id": "C",
+     "text": "Igual a 20 unidades monetarias."
+    },
+    {
+     "id": "D",
+     "text": "Podrá ser superior, igual o inferior a las 20 unidades monetarias, dependiendo de los parámetros concretos de la función Cobb-Douglas."
+    }
+   ],
+   "correctas": [
+    "B"
+   ],
+   "tipo": "single",
+   "examen": "Cuestionario 1 - Repaso de teoría del consumidor (academia)",
+   "numero": 5,
+   "fecha": null,
+   "imagen": null,
+   "justificacion": "20 es la compensación de Slutsky (\\(\\Delta p_x \\cdot x = 20\\)), que permite comprar la cesta inicial. Para mantener la utilidad basta menos, porque el consumidor sustituye: con \\(\\alpha = 0{,}2\\), \\(M' = 100\\cdot 2^{0{,}2} \\approx 114{,}9\\), es decir, unas 14,9 adicionales.",
+   "origen": "academia",
+   "solucion": "claude",
+   "revisar": true
+  },
+  {
+   "id": "JC0106",
+   "tema": "3.A.8",
+   "enunciado": "Al subir el precio del bien \\(x\\) (\\(p_x\\)) de un consumidor con preferencias regulares entre los bienes \\(x\\) e \\(y\\), se observa que disminuye la cantidad de consumo del propio bien \\(x\\). Entonces, señale la respuesta FALSA:",
+   "opciones": [
+    {
+     "id": "A",
+     "text": "Puede asegurarse que X no es un bien Giffen."
+    },
+    {
+     "id": "B",
+     "text": "Puede asegurarse que el efecto renta es inferior al efecto sustitución (\\(|ER| < |ES|\\))."
+    },
+    {
+     "id": "C",
+     "text": "Podría tratarse de un bien inferior (pero no puede saberse)."
+    },
+    {
+     "id": "D",
+     "text": "Puede asegurarse que el efecto sustitución es negativo (\\(ES < 0\\))."
+    }
+   ],
+   "correctas": [
+    "B"
+   ],
+   "tipo": "single",
+   "examen": "Cuestionario 1 - Repaso de teoría del consumidor (academia)",
+   "numero": 6,
+   "fecha": null,
+   "imagen": null,
+   "justificacion": "Si \\(x\\) es normal, los dos efectos reducen \\(x\\) y el efecto renta puede ser mayor que el de sustitución; solo si fuera inferior haría falta \\(|ER| < |ES|\\). Las demás son ciertas con preferencias regulares.",
+   "origen": "academia",
+   "solucion": "claude",
+   "revisar": true
+  },
+  {
+   "id": "JC0107",
+   "tema": "3.A.8",
+   "enunciado": "Si \\(x\\) e \\(y\\) son bienes sustitutivos, la cantidad de consumo del bien X es positiva y se produce un aumento de su precio, entonces, señale la respuesta FALSA:",
+   "opciones": [
+    {
+     "id": "A",
+     "text": "El efecto sustitución nunca puede ser nulo."
+    },
+    {
+     "id": "B",
+     "text": "Se reducirá seguro el gasto en el bien \\(x\\)."
+    },
+    {
+     "id": "C",
+     "text": "Se reducirá seguro el consumo en el bien \\(x\\)."
+    },
+    {
+     "id": "D",
+     "text": "Los efectos sustitución de Slutsky y Hicks podrían ser iguales (pero no es seguro)."
+    }
+   ],
+   "correctas": [
+    "B"
+   ],
+   "tipo": "single",
+   "examen": "Cuestionario 1 - Repaso de teoría del consumidor (academia)",
+   "numero": 7,
+   "fecha": null,
+   "imagen": null,
+   "justificacion": "DUDOSA. B es falsa: el gasto en \\(x\\) cae o sube según la elasticidad precio sea mayor o menor que 1. Pero A también puede ser falsa: con sustitutivos perfectos y solo \\(x\\) en la cesta, una subida pequeña de \\(p_x\\) no cambia la demanda compensada (efecto sustitución nulo). Se marca B como la respuesta más probable de la clave.",
+   "origen": "academia",
+   "solucion": "claude",
+   "revisar": true
+  },
+  {
+   "id": "JC0108",
+   "tema": "3.A.8",
+   "enunciado": "La función de utilidad de Pepe se especifica como \\(u(x,y) = 2x + y\\). Entonces, si los precios son \\(p_x = p_y = 1\\), puede afirmarse que:",
+   "opciones": [
+    {
+     "id": "A",
+     "text": "Pepe gastará toda su renta en el bien \\(x\\)."
+    },
+    {
+     "id": "B",
+     "text": "Pepe gastará toda su renta en el bien \\(y\\)."
+    },
+    {
+     "id": "C",
+     "text": "Pepe podría gastar una parte de su renta en \\(x\\) y otra parte en \\(y\\)."
+    },
+    {
+     "id": "D",
+     "text": "Ninguna de las demás respuestas es válida."
+    }
+   ],
+   "correctas": [
+    "A"
+   ],
+   "tipo": "single",
+   "examen": "Cuestionario 1 - Repaso de teoría del consumidor (academia)",
+   "numero": 8,
+   "fecha": null,
+   "imagen": null,
+   "justificacion": "Sustitutivos perfectos: \\(RMS = 2 > p_x/p_y = 1\\), así que toda la renta va a \\(x\\).",
+   "origen": "academia",
+   "solucion": "claude",
+   "revisar": true
+  },
+  {
+   "id": "JC0109",
+   "tema": "3.A.8",
+   "enunciado": "A Mariano le gusta por igual viajar a Canarias (\\(x_C\\)) y a los Picos de Europa (\\(x_{PE}\\)). No obstante, preferiría hacer un viaje largo a uno de los dos destinos que hacer dos viajes cortos. Siendo \\(x_C\\) el número de días que pasa en Canarias y \\(x_{PE}\\) el número de días que pasa en los Picos de Europa, la función de utilidad que mejor representa las preferencias de Mariano es:",
+   "opciones": [
+    {
+     "id": "A",
+     "text": "\\(u(x_C, x_{PE}) = x_C + x_{PE}\\)"
+    },
+    {
+     "id": "B",
+     "text": "\\(u(x_C, x_{PE}) = x_C^2 x_{PE}^2\\)"
+    },
+    {
+     "id": "C",
+     "text": "\\(u(x_C, x_{PE}) = x_C^2 + x_{PE}^2\\)"
+    },
+    {
+     "id": "D",
+     "text": "\\(u(x_C, x_{PE}) = \\min\\{x_C, x_{PE}\\}\\)"
+    }
+   ],
+   "correctas": [
+    "C"
+   ],
+   "tipo": "single",
+   "examen": "Cuestionario 1 - Repaso de teoría del consumidor (academia)",
+   "numero": 9,
+   "fecha": null,
+   "imagen": null,
+   "justificacion": "Preferir los extremos a las combinaciones es tener preferencias no convexas (cóncavas): \\(x_C^2 + x_{PE}^2\\), simétrica porque le gustan por igual.",
+   "origen": "academia",
+   "solucion": "claude",
+   "revisar": true
+  },
+  {
+   "id": "JC0110",
+   "tema": "3.A.8",
+   "enunciado": "Felipe dispone de una renta de 100 euros para gastar en dos bienes X e Y de precios \\(p_x = 2\\) y \\(p_y = 2\\). El gobierno establece una subvención de 1 euro para consumos del bien \\(x\\) superiores a las 20 unidades. Entonces, la restricción presupuestaria de Felipe es:",
+   "opciones": [
+    {
+     "id": "A",
+     "text": "Si \\(x \\le 20 \\Rightarrow 2x + 2y = 100\\); si \\(x > 20 \\Rightarrow x + 2y = 60\\)"
+    },
+    {
+     "id": "B",
+     "text": "Si \\(x \\le 20 \\Rightarrow 2x + 2y = 100\\); si \\(x > 20 \\Rightarrow x + 2y = 80\\)"
+    },
+    {
+     "id": "C",
+     "text": "Si \\(x \\le 20 \\Rightarrow 2x + 2y = 100\\); si \\(x > 20 \\Rightarrow x + 2y = 100\\)"
+    },
+    {
+     "id": "D",
+     "text": "Ninguna de las demás respuestas es válida."
+    }
+   ],
+   "correctas": [
+    "B"
+   ],
+   "tipo": "single",
+   "examen": "Cuestionario 1 - Repaso de teoría del consumidor (academia)",
+   "numero": 10,
+   "fecha": null,
+   "imagen": null,
+   "justificacion": "Para \\(x > 20\\): \\(2\\cdot 20 + 1\\cdot(x - 20) + 2y = 100 \\Rightarrow x + 2y = 80\\).",
+   "origen": "academia",
+   "solucion": "claude",
+   "revisar": true
+  },
+  {
+   "id": "JC0111",
+   "tema": "3.A.8",
+   "enunciado": "Un consumidor con la función de utilidad \\(u(x,y) = \\frac{1}{2}\\sqrt{x} + y\\) y con una renta de 50 se encuentra en su cesta óptima para \\(p_y = 2\\) y \\(p_x = 1\\). Entonces, en ese punto de equilibrio puede afirmarse que:",
+   "opciones": [
+    {
+     "id": "A",
+     "text": "La elasticidad renta de la demanda de \\(x\\) es igual a 1."
+    },
+    {
+     "id": "B",
+     "text": "La elasticidad cruzada de la demanda de \\(x\\) es 0."
+    },
+    {
+     "id": "C",
+     "text": "La elasticidad cruzada de la demanda de \\(x\\) es igual a -1."
+    },
+    {
+     "id": "D",
+     "text": "La elasticidad renta de la demanda de \\(x\\) es igual a 0."
+    }
+   ],
+   "correctas": [
+    "D"
+   ],
+   "tipo": "single",
+   "examen": "Cuestionario 1 - Repaso de teoría del consumidor (academia)",
+   "numero": 11,
+   "fecha": null,
+   "imagen": null,
+   "justificacion": "Cuasilineal con solución interior: \\(\\frac{1}{4\\sqrt{x}} = \\frac{p_x}{p_y}\\Rightarrow x = \\left(\\frac{p_y}{4p_x}\\right)^2 = \\frac14\\), que no depende de la renta (elasticidad renta 0) y sí de \\(p_y\\) (elasticidad cruzada 2).",
+   "origen": "academia",
+   "solucion": "claude",
+   "revisar": true
+  },
+  {
+   "id": "JC0112",
+   "tema": "3.A.8",
+   "enunciado": "Un consumidor debe consumir siempre conjuntamente los bienes X e Y en proporciones exactas e iguales a 1. Entonces, identifique la respuesta falsa:",
+   "opciones": [
+    {
+     "id": "A",
+     "text": "\\(x = \\frac{M}{p_x + p_y}\\)"
+    },
+    {
+     "id": "B",
+     "text": "X e Y son complementarios perfectos."
+    },
+    {
+     "id": "C",
+     "text": "Puede asegurarse que en la cesta óptima \\(x = y\\) sean cuales sean \\(p_x\\) y \\(p_y\\)."
+    },
+    {
+     "id": "D",
+     "text": "No puede asegurarse que \\(x\\) e \\(y\\) sean complementarios brutos."
+    }
+   ],
+   "correctas": [
+    "D"
+   ],
+   "tipo": "single",
+   "examen": "Cuestionario 1 - Repaso de teoría del consumidor (academia)",
+   "numero": 12,
+   "fecha": null,
+   "imagen": null,
+   "justificacion": "\\(x = y = \\frac{M}{p_x + p_y}\\): cada demanda disminuye con el precio del otro bien, así que sí puede asegurarse que son complementarios brutos.",
+   "origen": "academia",
+   "solucion": "claude",
+   "revisar": true
+  },
+  {
+   "id": "JC0113",
+   "tema": "3.A.8",
+   "enunciado": "La cesta óptima de un consumidor con preferencias regulares es (10,10) para unos precios dados \\(p_y\\) y \\(p_x\\). El Estado fija un impuesto de \\(t\\) unidades monetarias sobre la cantidad que exceda de 10 unidades en el consumo del bien \\(x\\). Entonces:",
+   "opciones": [
+    {
+     "id": "A",
+     "text": "La cesta óptima del consumidor no cambia."
+    },
+    {
+     "id": "B",
+     "text": "Aumentará el consumo de \\(x\\) y se reducirá el de \\(y\\)."
+    },
+    {
+     "id": "C",
+     "text": "Se reducirá el consumo de \\(x\\) y aumentará el de \\(y\\)."
+    },
+    {
+     "id": "D",
+     "text": "Se reducirá el consumo de \\(x\\) y el de \\(y\\) se mantendrá constante."
+    }
+   ],
+   "correctas": [
+    "A"
+   ],
+   "tipo": "single",
+   "examen": "Cuestionario 1 - Repaso de teoría del consumidor (academia)",
+   "numero": 13,
+   "fecha": null,
+   "imagen": null,
+   "justificacion": "El impuesto solo encoge el conjunto presupuestario a la derecha de \\(x = 10\\). La cesta (10,10) sigue siendo alcanzable y las cestas a su izquierda no cambian, así que sigue siendo la óptima.",
+   "origen": "academia",
+   "solucion": "claude",
+   "revisar": true
+  },
+  {
+   "id": "JC0114",
+   "tema": "3.A.8",
+   "enunciado": "Las preferencias de un consumidor pueden representarse como \\(u(x,y) = \\ln(x) + \\ln(y)\\). Entonces, identifique la respuesta falsa:",
+   "opciones": [
+    {
+     "id": "A",
+     "text": "\\(y = x\\) si \\(p_x = p_y\\)."
+    },
+    {
+     "id": "B",
+     "text": "La proporción de gasto en \\(x\\) (\\(p_x x\\)) y en \\(y\\) (\\(p_y y\\)) será constante para cualquier nivel de renta con independencia de los precios (\\(p_x \\ge 0, p_y \\ge 0\\))."
+    },
+    {
+     "id": "C",
+     "text": "La proporción de consumo de las cantidades de \\(x\\) e \\(y\\) será constante para cualquier nivel de renta con independencia de los precios (\\(p_x \\ge 0\\) y \\(p_y \\ge 0\\))."
+    },
+    {
+     "id": "D",
+     "text": "Un aumento de \\(p_x\\) reducirá la cantidad consumida del bien \\(x\\)."
+    }
+   ],
+   "correctas": [
+    "C"
+   ],
+   "tipo": "single",
+   "examen": "Cuestionario 1 - Repaso de teoría del consumidor (academia)",
+   "numero": 14,
+   "fecha": null,
+   "imagen": null,
+   "justificacion": "Cobb-Douglas simétrica: \\(p_x x = p_y y = M/2\\). Las proporciones de gasto son constantes, pero el cociente de cantidades \\(y/x = p_x/p_y\\) depende de los precios.",
+   "origen": "academia",
+   "solucion": "claude",
+   "revisar": true
+  },
+  {
+   "id": "JC0115",
+   "tema": "3.A.8",
+   "enunciado": "Un consumidor tiene unas preferencias entre los bienes X e Y caracterizadas porque siempre está dispuesto a sustituir 1 unidad del bien X por 3 unidades del bien Y. Señale la afirmación falsa:",
+   "opciones": [
+    {
+     "id": "A",
+     "text": "La función de utilidad \\(U(x,y) = x + y/3\\) representa las preferencias del consumidor, pero no es la única función de utilidad que las representa."
+    },
+    {
+     "id": "B",
+     "text": "El valor absoluto de la \\(RMS_{y,x}\\) evaluada en la cesta de consumo (1,3) es mayor que el valor absoluto de la \\(RMS_{y,x}\\) evaluada en la cesta de consumo (3,1)."
+    },
+    {
+     "id": "C",
+     "text": "La tasa a la que el consumidor está dispuesto a sustituir unidades del bien X por unidades del bien Y es independiente del precio de los bienes."
+    },
+    {
+     "id": "D",
+     "text": "Si aumenta la renta del consumidor, no se modifica la tasa a la que el consumidor está dispuesto a sustituir unidades del bien X por unidades del bien Y."
+    }
+   ],
+   "correctas": [
+    "B"
+   ],
+   "tipo": "single",
+   "examen": "Cuestionario 1 - Repaso de teoría del consumidor (academia)",
+   "numero": 15,
+   "fecha": null,
+   "imagen": null,
+   "justificacion": "Sustitutivos perfectos: la RMS es constante (3) en todas las cestas, así que no puede ser mayor en (1,3) que en (3,1).",
+   "origen": "academia",
+   "solucion": "claude",
+   "revisar": true
+  },
+  {
+   "id": "JC0116",
+   "tema": "3.A.8",
+   "enunciado": "Suponga que las preferencias de un consumidor entre los bienes \\(x\\) e \\(y\\) vienen representadas por la función de utilidad \\(U(x,y) = xy\\). Si el precio del bien \\(y\\) (\\(p_y\\)) varía y se mantienen constantes la renta en \\(M = 400\\) y el precio del bien \\(x\\) en \\(p_x = 2\\), señale la afirmación verdadera:",
+   "opciones": [
+    {
+     "id": "A",
+     "text": "La curva de precio consumo es la recta \\(y = 100\\)."
+    },
+    {
+     "id": "B",
+     "text": "La curva de precio consumo es la recta \\(x = 100\\)."
+    },
+    {
+     "id": "C",
+     "text": "La curva de precio consumo es la recta \\(x = 50\\)."
+    },
+    {
+     "id": "D",
+     "text": "La curva de precio consumo es la recta \\(x = y\\)."
+    }
+   ],
+   "correctas": [
+    "B"
+   ],
+   "tipo": "single",
+   "examen": "Cuestionario 1 - Repaso de teoría del consumidor (academia)",
+   "numero": 16,
+   "fecha": null,
+   "imagen": null,
+   "justificacion": "\\(x = \\frac{M}{2p_x} = \\frac{400}{4} = 100\\), que no depende de \\(p_y\\): la curva precio-consumo es la recta vertical \\(x = 100\\).",
+   "origen": "academia",
+   "solucion": "claude",
+   "revisar": true
+  },
+  {
+   "id": "JC0117",
+   "tema": "3.A.8",
+   "enunciado": "Suponga un consumidor cuyas preferencias por los bienes \\(x\\) e \\(y\\) están dadas por la función de utilidad \\(u(x,y) = \\min\\{x, 3y\\}\\). El consumidor dispone de una renta \\(M\\) y los precios de los bienes son \\(p_x\\) y \\(p_y\\). Señale la afirmación falsa:",
+   "opciones": [
+    {
+     "id": "A",
+     "text": "Si aumenta el precio del bien \\(x\\), el consumidor reducirá el consumo de ambos bienes."
+    },
+    {
+     "id": "B",
+     "text": "Si aumenta la renta, el consumidor aumentará el consumo de ambos bienes."
+    },
+    {
+     "id": "C",
+     "text": "Independientemente del precio de los bienes, el consumidor demandará más cantidad del bien \\(x\\) que del bien \\(y\\)."
+    },
+    {
+     "id": "D",
+     "text": "Si \\(p_x > p_y\\), el consumidor demandará más cantidad del bien \\(y\\) que del bien \\(x\\)."
+    }
+   ],
+   "correctas": [
+    "D"
+   ],
+   "tipo": "single",
+   "examen": "Cuestionario 1 - Repaso de teoría del consumidor (academia)",
+   "numero": 17,
+   "fecha": null,
+   "imagen": null,
+   "justificacion": "Siempre consume en la proporción \\(x = 3y\\), sean cuales sean los precios: nunca demandará más \\(y\\) que \\(x\\).",
+   "origen": "academia",
+   "solucion": "claude",
+   "revisar": true
+  },
+  {
+   "id": "JC0118",
+   "tema": "3.A.8",
+   "enunciado": "Considere un consumidor que tiene preferencias regulares sobre los bienes X e Y. Si el bien X no es ordinario, señale la respuesta verdadera:",
+   "opciones": [
+    {
+     "id": "A",
+     "text": "Su curva de demanda puede ser decreciente."
+    },
+    {
+     "id": "B",
+     "text": "Seguro que es un bien Giffen."
+    },
+    {
+     "id": "C",
+     "text": "Su curva de Engel seguro que es decreciente."
+    },
+    {
+     "id": "D",
+     "text": "Su curva de Engel puede ser creciente."
+    }
+   ],
+   "correctas": [
+    "C"
+   ],
+   "tipo": "single",
+   "examen": "Cuestionario 1 - Repaso de teoría del consumidor (academia)",
+   "numero": 18,
+   "fecha": null,
+   "imagen": null,
+   "justificacion": "No ordinario: \\(\\partial x/\\partial p_x \\ge 0\\). Como el efecto sustitución es negativo, el efecto renta tiene que compensarlo: el bien es inferior y su curva de Engel es decreciente. Giffen exige \\(\\partial x/\\partial p_x > 0\\) estricto, así que no es seguro.",
+   "origen": "academia",
+   "solucion": "claude",
+   "revisar": true
+  },
+  {
+   "id": "JC0119",
+   "tema": "3.A.8",
+   "enunciado": "Las preferencias de un consumidor por los bienes \\(x\\) e \\(y\\) se pueden representar mediante la función de utilidad \\(u(x,y) = x + y\\). Los precios de los dos bienes son \\(p_x\\) y \\(p_y\\), respectivamente. La renta del consumidor es \\(M\\) unidades monetarias. Si se observa que el consumidor demanda \\(M/p_x\\) unidades del bien \\(x\\), ¿cuál de las siguientes afirmaciones puede ser correcta?",
+   "opciones": [
+    {
+     "id": "A",
+     "text": "\\(p_x > p_y\\)."
+    },
+    {
+     "id": "B",
+     "text": "\\(p_x = 3p_y\\)."
+    },
+    {
+     "id": "C",
+     "text": "\\(p_x = p_y\\)."
+    },
+    {
+     "id": "D",
+     "text": "Ninguna de las otras afirmaciones puede ser correcta."
+    }
+   ],
+   "correctas": [
+    "C"
+   ],
+   "tipo": "single",
+   "examen": "Cuestionario 1 - Repaso de teoría del consumidor (academia)",
+   "numero": 19,
+   "fecha": null,
+   "imagen": null,
+   "justificacion": "Gastar toda la renta en \\(x\\) exige \\(p_x \\le p_y\\). Con \\(p_x = p_y\\) es una de las soluciones óptimas.",
+   "origen": "academia",
+   "solucion": "claude",
+   "revisar": true
+  },
+  {
+   "id": "JC0120",
+   "tema": "3.A.8",
+   "enunciado": "Las preferencias de un consumidor entre los bienes X e Y vienen dadas por la función de utilidad \\(U(x,y) = x^2 + 4y^2\\). Los precios de los bienes son \\(p_x\\) y \\(p_y\\) y el consumidor tiene una renta \\(M\\). Señale la afirmación verdadera:",
+   "opciones": [
+    {
+     "id": "A",
+     "text": "Si \\(p_x < p_y\\), es posible que el consumidor solo consuma del bien X en el equilibrio."
+    },
+    {
+     "id": "B",
+     "text": "Si \\(p_x = p_y\\), es posible que el consumidor solo consuma del bien X en el equilibrio."
+    },
+    {
+     "id": "C",
+     "text": "Independientemente del precio de los bienes el consumidor solo consumirá del bien Y en el equilibrio."
+    },
+    {
+     "id": "D",
+     "text": "Si \\(p_x > p_y\\), es posible que el consumidor solo consuma del bien X en el equilibrio."
+    }
+   ],
+   "correctas": [
+    "A"
+   ],
+   "tipo": "single",
+   "examen": "Cuestionario 1 - Repaso de teoría del consumidor (academia)",
+   "numero": 20,
+   "fecha": null,
+   "imagen": null,
+   "justificacion": "Esquinas: todo \\(x\\) da \\((M/p_x)^2\\) y todo \\(y\\) da \\(4(M/p_y)^2\\). Elige solo \\(x\\) si \\(p_y \\ge 2p_x\\), lo que es posible cuando \\(p_x < p_y\\).",
+   "origen": "academia",
+   "solucion": "claude",
+   "revisar": true
+  }
+ ]
+}
