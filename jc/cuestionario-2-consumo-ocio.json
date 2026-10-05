@@ -1,0 +1,270 @@
+{
+ "documento": "CUESTIONARIO 2-CONSUMO OCIO-CON SOLUCIONES.pdf",
+ "examen": "Cuestionario 2 - Elección consumo-ocio (academia)",
+ "preguntas": [
+  {
+   "id": "JC0201",
+   "tema": "3.A.25",
+   "enunciado": "Un consumidor que solo tiene renta salarial, con preferencias entre consumo-ocio \\(U = H^2 C\\), siendo el precio del consumo unitario, tiene una función de oferta de trabajo dada por la función:",
+   "opciones": [
+    {
+     "id": "A",
+     "text": "\\(L = 2W\\)"
+    },
+    {
+     "id": "B",
+     "text": "\\(L = H/2\\)"
+    },
+    {
+     "id": "C",
+     "text": "\\(L = 24 - H\\)"
+    },
+    {
+     "id": "D",
+     "text": "\\(L = 8\\)"
+    }
+   ],
+   "correctas": [
+    "D"
+   ],
+   "tipo": "single",
+   "examen": "Cuestionario 2 - Elección consumo-ocio (academia)",
+   "numero": 1,
+   "fecha": null,
+   "imagen": null,
+   "justificacion": "Con \\(U = H^{\\alpha} C^{\\beta}\\), el ocio es \\(H = \\frac{\\alpha}{\\alpha+\\beta}\\frac{R^*}{w}\\), con renta total \\(R^* = M + 24w\\). Con \\(M = 0\\): \\(H = \\frac{2}{3}\\cdot\\frac{24w}{w} = 16\\), luego \\(L = 24 - 16 = 8\\), que no depende del salario (oferta vertical).",
+   "origen": "academia"
+  },
+  {
+   "id": "JC0202",
+   "tema": "3.A.25",
+   "enunciado": "Las preferencias de un consumidor entre consumo y ocio vienen representadas por la función \\(U = HC^2\\). La renta no salarial de este individuo es de 24.000 u.m., el precio del consumo es \\(P = 1.000\\) y el salario/hora trabajada es \\(w = 1.000\\). Suponga que el gobierno establece un impuesto proporcional sobre las rentas del trabajo del 10%. Como consecuencia del impuesto,",
+   "opciones": [
+    {
+     "id": "A",
+     "text": "La oferta de trabajo no se ve afectada"
+    },
+    {
+     "id": "B",
+     "text": "La recaudación del impuesto es de 711,1 u.m."
+    },
+    {
+     "id": "C",
+     "text": "El individuo decide trabajar exactamente 6 horas"
+    },
+    {
+     "id": "D",
+     "text": "Ninguna de las otras respuestas"
+    }
+   ],
+   "correctas": [
+    "B"
+   ],
+   "tipo": "single",
+   "examen": "Cuestionario 2 - Elección consumo-ocio (academia)",
+   "numero": 2,
+   "fecha": null,
+   "imagen": null,
+   "justificacion": "Sin impuesto: \\(H = \\frac{24.000 + 24\\cdot 1.000}{3\\cdot 1.000} = 16\\), \\(L = 8\\). Con impuesto el salario neto es \\(w^* = 900\\): \\(H = \\frac{24.000 + 24\\cdot 900}{3\\cdot 900} = 16{,}89\\), \\(L = 7{,}11\\). Recaudación \\(= 0{,}1\\cdot 1.000\\cdot 7{,}11 = 711{,}1\\).",
+   "origen": "academia"
+  },
+  {
+   "id": "JC0203",
+   "tema": "3.A.25",
+   "enunciado": "Inés, cuyas preferencias entre consumo y ocio vienen dadas por la función \\(U = HC\\), se encuentra ante el dilema de trabajar en una empresa que le paga 2 euros/hora y le deja elegir la jornada laboral, o en otra empresa, que le impone como condición la jornada de 8 horas. Inés, que cuenta con una renta no salarial de 24 euros, si el precio del consumo es unitario, se mostrará indiferente entre ambos empleos si el salario/hora que le paga la segunda empresa es aproximadamente:",
+   "opciones": [
+    {
+     "id": "A",
+     "text": "2,06 euros"
+    },
+    {
+     "id": "B",
+     "text": "4,98 euros"
+    },
+    {
+     "id": "C",
+     "text": "5,05 euros"
+    },
+    {
+     "id": "D",
+     "text": "3,35 euros"
+    }
+   ],
+   "correctas": [
+    "A"
+   ],
+   "tipo": "single",
+   "examen": "Cuestionario 2 - Elección consumo-ocio (academia)",
+   "numero": 3,
+   "fecha": null,
+   "imagen": null,
+   "justificacion": "1.ª empresa: \\(H = \\frac{24 + 2\\cdot 24}{2\\cdot 2} = 18\\), \\(C = 36\\), \\(U = 648\\). 2.ª empresa (\\(L = 8\\), \\(H = 16\\)): \\(C = 24 + 8w\\) y \\(16(24 + 8w) = 648 \\Rightarrow w = 2{,}0625\\).",
+   "origen": "academia"
+  },
+  {
+   "id": "JC0204",
+   "tema": "3.A.25",
+   "enunciado": "Sea un consumidor sin renta no salarial y cuya función de utilidad es \\(U = HC\\). Si el precio de consumo es \\(P_c = 2\\), y el salario por hora trabajada es \\(w = 4\\), en esta situación es seguro que dejará de trabajar si:",
+   "opciones": [
+    {
+     "id": "A",
+     "text": "Existe un subsidio de desempleo mayor a 10 u.m."
+    },
+    {
+     "id": "B",
+     "text": "Existe un subsidio de desempleo igual a 30 u.m."
+    },
+    {
+     "id": "C",
+     "text": "Independientemente de la magnitud del subsidio de desempleo, nunca dejará de trabajar."
+    },
+    {
+     "id": "D",
+     "text": "Dado que el consumo y el ocio son complementarios perfectos, siempre trabajará."
+    }
+   ],
+   "correctas": [
+    "B"
+   ],
+   "tipo": "single",
+   "examen": "Cuestionario 2 - Elección consumo-ocio (academia)",
+   "numero": 4,
+   "fecha": null,
+   "imagen": null,
+   "justificacion": "Trabajando: \\(H = 12\\), \\(C = \\frac{4\\cdot 12}{2} = 24\\), \\(U = 288\\). Con subsidio \\(S\\) y sin trabajar: \\(H = 24\\), \\(C = S/2\\), \\(U = 12S\\). Deja de trabajar si \\(12S > 288\\), es decir, \\(S > 24\\): con \\(S = 30\\) es seguro.",
+   "origen": "academia"
+  },
+  {
+   "id": "JC0205",
+   "tema": "3.A.25",
+   "enunciado": "Un consumidor que solo tiene renta salarial, con preferencias entre consumo y ocio \\(U = \\min(C, H)\\), siendo el precio del consumo unitario, tiene una función de oferta de trabajo:",
+   "opciones": [
+    {
+     "id": "A",
+     "text": "\\(L = 24/(1 + w)\\)"
+    },
+    {
+     "id": "B",
+     "text": "\\(L = 24/2w\\)"
+    },
+    {
+     "id": "C",
+     "text": "Ninguna de las otras respuestas"
+    },
+    {
+     "id": "D",
+     "text": "\\(L = 8\\)"
+    }
+   ],
+   "correctas": [
+    "A"
+   ],
+   "tipo": "single",
+   "examen": "Cuestionario 2 - Elección consumo-ocio (academia)",
+   "numero": 5,
+   "fecha": null,
+   "imagen": null,
+   "justificacion": "Complementarios perfectos: \\(C = H\\). Con \\(C = w(24 - H)\\) queda \\(H = \\frac{24w}{1+w}\\) y \\(L = 24 - H = \\frac{24}{1+w}\\).",
+   "origen": "academia"
+  },
+  {
+   "id": "JC0206",
+   "tema": "3.A.25",
+   "enunciado": "Suponga un consumidor que está cobrando un subsidio de desempleo de 85 u.m. y que cuenta con una renta no salarial de 15 u.m., siendo el precio del bien de consumo la unidad. A este consumidor le llaman de la oficina de empleo para ofrecerle un trabajo en prácticas de 4 horas. Si sus preferencias entre consumo y ocio se ajustan a la función de utilidad \\(U = ch\\), se mostrará dispuesto a aceptar el empleo si el salario que le pagan es como mínimo de:",
+   "opciones": [
+    {
+     "id": "A",
+     "text": "El salario que le pagan por hora es \\(W = 22{,}5\\)"
+    },
+    {
+     "id": "B",
+     "text": "El salario que le pagan por hora es \\(W = 14{,}75\\)"
+    },
+    {
+     "id": "C",
+     "text": "El salario que le pagan por hora es \\(W = 26{,}25\\)"
+    },
+    {
+     "id": "D",
+     "text": "Ninguno de los citados"
+    }
+   ],
+   "correctas": [
+    "C"
+   ],
+   "tipo": "single",
+   "examen": "Cuestionario 2 - Elección consumo-ocio (academia)",
+   "numero": 6,
+   "fecha": null,
+   "imagen": null,
+   "justificacion": "Cobrando el subsidio: \\(H = 24\\), \\(C = 15 + 85 = 100\\), \\(U = 2.400\\). Trabajando 4 horas (pierde el subsidio): \\(H = 20\\), \\(C = 15 + 4w\\) y \\(20(15 + 4w) = 2.400 \\Rightarrow w = 26{,}25\\).",
+   "origen": "academia"
+  },
+  {
+   "id": "JC0207",
+   "tema": "3.A.25",
+   "enunciado": "Un consumidor cuya función de utilidad entre consumo y ocio es \\(U = C^2 H\\), y que cuenta con una renta no salarial de 24 u.m., elige trabajar 10,5 horas diarias. Sabiendo que las rentas salariales están sujetas a un impuesto del 20% a partir de seis horas de trabajo, y que el precio del bien de consumo es la unidad, el salario por hora trabajada será:",
+   "opciones": [
+    {
+     "id": "A",
+     "text": "5 u.m."
+    },
+    {
+     "id": "B",
+     "text": "1,5 u.m."
+    },
+    {
+     "id": "C",
+     "text": "2 u.m."
+    },
+    {
+     "id": "D",
+     "text": "0,5 u.m."
+    }
+   ],
+   "correctas": [
+    "C"
+   ],
+   "tipo": "single",
+   "examen": "Cuestionario 2 - Elección consumo-ocio (academia)",
+   "numero": 7,
+   "fecha": null,
+   "imagen": null,
+   "justificacion": "En el tramo \\(L > 6\\): \\(C = 24 + 6w + 0{,}8w(L - 6)\\). Renta total virtual \\(R = 24 + 1{,}2w + 0{,}8w\\cdot 24 = 24 + 20{,}4w\\) y \\(H = \\frac{R}{3\\cdot 0{,}8w}\\). Con \\(H = 13{,}5\\): \\(32{,}4w = 24 + 20{,}4w \\Rightarrow w = 2\\).",
+   "origen": "academia"
+  },
+  {
+   "id": "JC0208",
+   "tema": "3.A.25",
+   "enunciado": "Una persona desempleada dispone como única renta del subsidio de paro de 125 u.m. diarias. Sus preferencias entre consumo y ocio vienen dadas por la función \\(U = C^2 H\\), siendo 5 el precio del bien de consumo. A esta persona le llama la oficina de desempleo para ofrecerle un trabajo de una jornada fija de 8 horas. Es seguro entonces que aceptará ese empleo si:",
+   "opciones": [
+    {
+     "id": "A",
+     "text": "El salario que le pagan por hora es de 18,5"
+    },
+    {
+     "id": "B",
+     "text": "El salario que le pagan por hora es superior a 18,5"
+    },
+    {
+     "id": "C",
+     "text": "El salario que le pagan por hora es inferior a 20"
+    },
+    {
+     "id": "D",
+     "text": "Ninguna de las otras respuestas"
+    }
+   ],
+   "correctas": [
+    "D"
+   ],
+   "tipo": "single",
+   "examen": "Cuestionario 2 - Elección consumo-ocio (academia)",
+   "numero": 8,
+   "fecha": null,
+   "imagen": null,
+   "justificacion": "En paro: \\(H = 24\\), \\(C = 125/5 = 25\\), \\(U = 25^2\\cdot 24 = 15.000\\). Trabajando 8 horas: \\(H = 16\\), \\(C = 8w/5\\) y \\(\\left(\\frac{8w}{5}\\right)^2 16 = 15.000 \\Rightarrow w \\approx 19{,}14\\). Solo es seguro que acepta si \\(w > 19{,}14\\): ninguna opción lo garantiza.",
+   "origen": "academia"
+  }
+ ]
+}
